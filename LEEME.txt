@@ -1,0 +1,25 @@
+BOMBEROS POR UN DÍA — Sitio web (Kintsugi)
+
+Contenido
+- index.html ........... Página principal
+- muestra-fuego.html ... Variante con la foto de fuego de fondo (opcional)
+- img/ ................. Fotos y logos
+- video.mp4, campo.mp4 . Videos del sitio
+
+Cómo publicarlo
+1. Sube la carpeta completa (sin cambiar nombres ni estructura) al hosting:
+   - Netlify: entra a app.netlify.com/drop y arrastra esta carpeta.
+   - Hosting de ktg.cl: súbela por FTP o el administrador de archivos
+     (por ejemplo, a una carpeta /bomberos o a un subdominio).
+2. Si prefieres la versión con fuego como portada, renombra
+   muestra-fuego.html a index.html (y la actual a otro nombre).
+3. Conecta el dominio desde el panel del hosting (DNS).
+
+Notas
+- El botón "Agendar reunión" abre WhatsApp al +56 9 8129 9238.
+- Tipografías cargadas desde Google Fonts (requiere internet).
+- La foto de fuego (img/hero-fuego.jpg) debe contar con licencia de uso
+  antes de publicarse.
+- Para ver el sitio localmente, abre index.html en el navegador.
+
+Contacto: marcelo@ktg.cl
